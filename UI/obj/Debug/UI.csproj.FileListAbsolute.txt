@@ -1,0 +1,7 @@
+C:\Users\Administrador\Desktop\Nova pasta\Projeto3Camadas\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Nova pasta\Projeto3Camadas\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\Desktop\Nova pasta\Projeto3Camadas\UI\obj\Debug\Projeto3Camadas.Form1.resources
+C:\Users\Administrador\Desktop\Nova pasta\Projeto3Camadas\UI\obj\Debug\Projeto3Camadas.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Nova pasta\Projeto3Camadas\UI\obj\Debug\Projeto3Camadas.TelaCliente.resources
+C:\Users\Administrador\Desktop\Nova pasta\Projeto3Camadas\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Nova pasta\Projeto3Camadas\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache

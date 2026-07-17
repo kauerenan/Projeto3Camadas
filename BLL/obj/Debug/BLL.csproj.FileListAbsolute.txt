@@ -1,0 +1,2 @@
+C:\Users\Administrador\Desktop\Nova pasta\Projeto3Camadas\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Nova pasta\Projeto3Camadas\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
